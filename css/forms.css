@@ -1,0 +1,51 @@
+
+form button{
+    background-color: rgb(255, 255, 255) !important;
+
+    margin-top: 10px;
+    color: black !important;
+    width: 100%;
+}
+
+form button:hover{
+    background-color: #eaeaea !important;
+}
+form{
+    width: 400px;
+    background-color: steelblue;
+    padding: 20px;
+    border-radius: 20px;
+    animation: scaleUp 1s ;
+
+}
+h2{
+    color: White !important;
+}
+
+.form-group label{
+    color: white !important;
+}
+
+
+form a{
+    color: white;
+
+}
+
+form * {
+    animation: scaleUp .5s;
+}
+
+
+
+@keyframes scaleUp {
+    0%{
+        opacity: 0%;
+        transform: scale(90%);
+    }
+    100%{
+        opacity: 100%;
+        transform: scale(100%);
+    }
+
+}
