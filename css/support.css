@@ -1,0 +1,9 @@
+.faq-container{
+    margin-top: 10vh;
+}
+
+.accordion-button:not(.collapsed){
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
