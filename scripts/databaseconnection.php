@@ -1,9 +1,9 @@
 <?php
 
 $servername = "localhost";
-$username = "uzivatel.jmeno";
-$password = "heslo";
-$database = "jmeno_databaze";
+$username = "root";
+$password = "";
+$database = "parek";
 
 
 
